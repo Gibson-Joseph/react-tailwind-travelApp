@@ -8,8 +8,8 @@ const Hero = () => {
     <div className="w-full h-screen relative">
       <video
         className="w-full h-full object-cover"
-        // src={require("../assets/beachVid.mp4")}
-        src={require("../assets/video_ff.mp4")}
+        src={require("../assets/beachVid.mp4")}
+        // src={require("../assets/video_ff.mp4")}
         autoPlay
         loop
         muted
